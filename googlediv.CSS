@@ -1,0 +1,20 @@
+.google{
+    width:300px;
+    height: 200px;
+  }
+  .search-bar {
+    border: none;
+    width: 300px;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+    padding: 10px;
+    border-radius: 20px;
+    margin-bottom: 16px;
+  }
+  div{
+    text-align: center;
+  }
+  .btn{
+    border: none;
+    margin-right: 10px;
+    padding:10px;
+  }
