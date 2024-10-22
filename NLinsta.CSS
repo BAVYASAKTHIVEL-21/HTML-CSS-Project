@@ -1,0 +1,61 @@
+
+.main{
+  width: 200px;
+  box-shadow: 0 1px 6px rgba(0,0,0,0.25);
+  margin-left: 10px;
+  display: inline-block;
+}
+
+p {
+  font-family: Roboto,arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.catimg {
+  width: 200px;
+  height: 200px;
+  margin-bottom: 5px;
+}
+
+.name{
+  margin-left: 5px;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.profile {
+  display: inline-block;
+ margin-bottom: 7px;
+}
+
+.dp1 {
+  display: inline-block;
+  margin-left: 5px;
+  
+}
+
+.dp{
+  width: 30px;
+  height: 30px;
+  border-radius: 30px;
+}
+
+.description {
+  display: inline-block;
+  margin-left: 6px;
+  vertical-align: top;
+  margin-top: 4px;
+}
+
+.btn{
+  color: white;
+  background-color: rgb(40, 172, 243);
+  border: none;
+  padding: 5px;
+  padding-left: 12px;
+  padding-right: 12px;
+  border-radius:3px ;
+  margin-left: 5px;
+  margin-bottom: 10px;
+}
