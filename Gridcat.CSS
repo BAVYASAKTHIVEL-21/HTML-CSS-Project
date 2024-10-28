@@ -1,0 +1,49 @@
+.main {
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.25);
+}
+
+p {
+  font-family: Roboto, arial;
+}
+
+.catimg {
+  margin-bottom: 5px;
+}
+
+.name {
+  margin-left: 5px;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.profile {
+  margin-bottom: 7px;
+}
+
+.dp1 {
+  margin-left: 5px;
+}
+
+.dp {
+  width: 30px;
+  height: 30px;
+  border-radius: 30px;
+}
+
+.description {
+  margin-left: 6px;
+  vertical-align: top;
+  margin-top: 4px;
+}
+
+.btn {
+  color: white;
+  background-color: rgb(40, 172, 243);
+  border: none;
+  padding: 5px;
+  padding-left: 12px;
+  padding-right: 12px;
+  border-radius: 3px;
+  margin-left: 5px;
+  margin-bottom: 10px;
+}
